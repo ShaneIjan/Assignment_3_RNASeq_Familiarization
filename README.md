@@ -1,0 +1,2 @@
+# Assignment_3_RNASeq_Familiarization
+RNA-Seq Literature Familiarization and Data Characterization
